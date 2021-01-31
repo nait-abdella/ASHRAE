@@ -1,5 +1,27 @@
 Plan: 
+- Se familiariser avec Github/ Kaggle
 - Chargement et compréhension des données 
 - Nettoyage des données 
 - Statistiques descriptives 
+
+The data contains 3 files: 
+
+- train : de taille (20216100, 4)
+- building_meta : de taille (1449, 6)
+- weather_train : de taille (139773, 9)
+
+A propos des données: 
+- le fichier train ne comporte aucune donnée manquante.
+- le fichier building_meta:
+      *  floor_count : 75.50 %
+      *  year_built: 53.41 %
+- le fichier weather_train :
+      * cloud_coverage : 49.48 %
+      * precip_depth_1_hr : 35.97 %
+      * sea_level_pressure : 7.59 %
+      * wind direction : 4.48 %
+      * ..
+      * ..
+      
+
 
