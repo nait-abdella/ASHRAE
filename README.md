@@ -3,7 +3,7 @@
 - NAIT ABDELLA
 - EL ADAMI Hichem 
 
-Pour nous contacter, rendez-vous sur [Discord](https://discord.gg/29ufjsez) !
+Pour nous contacter, rendez-vous sur [Discord](https://discord.gg/Tz7u4JWW) !
 
 
 ## Subject: ASHRAE Energy Prediction
