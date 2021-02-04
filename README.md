@@ -3,6 +3,9 @@
 - NAIT ABDELLA
 - EL ADAMI Hichem 
 
+Pour nous contacter, rendez-vous sur [Discord](https://discord.gg/29ufjsez) !
+
+
 ## Subject: ASHRAE Energy Prediction
 
 Les données représentent 3 années de relevés de compteurs horaires de plus de 1000 batiments sur différents sites à travers le monde.
