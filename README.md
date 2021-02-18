@@ -58,7 +58,7 @@ Then, we have
 
 #### Some graphics: 
 
-We first of all interet to the target variable: **meter_reading** 
+We first of all interest to the target variable: **meter_reading** 
 
 
 
