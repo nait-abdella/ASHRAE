@@ -8,8 +8,6 @@ Pour nous contacter, rendez-vous sur [Discord](https://discord.gg/Tz7u4JWW) !
 
 ## Subject: ASHRAE Energy Prediction
 
-Les données représentent 3 années de relevés de compteurs horaires de plus de 1000 batiments sur différents sites à travers le monde.
-
 #### Données:
 
 The data contains 3 files: 
@@ -30,25 +28,28 @@ Then, we have reduced the memory of the data:
 => Decreased by 69.8%
 
 Missing values: 
-![](Images/na_values.png)
+![heatmap of missing values](Images/na_values.png)
 
 There are the percentages of missing values for each variable: 
 
-year_built : 59.99 %
-
 floor_count	:82.65 %
+
+year_built : 59.99 %
 
 cloud_coverage	:	43.65 %
 
 precip_depth_1_hr	:	18.54 %
 
-dew_temperature	:	0.49 %
+wind_direction	:	7.16 %
 
 sea_level_pressure	:	6.09 %
 
-wind_direction	:	7.16 %
-
 wind_speed	: 0.71 %
+
+dew_temperature	:	0.49 %
+
+Other variables .. : 0%
+
 
 
 
