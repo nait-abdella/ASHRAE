@@ -1,1 +1,8 @@
-
+- statistiques desciptives 2
+- premier modèle ( arbre de décision ) 
+( problème de mémoire, nous avons réussi à tester le modèle .. donc nous avons créé un compte googlecloudplatform afin de bénéficier de la mémoire gratuite )
+- soumission sur Kaggle 
+( on a rencontré quelques problèmes lors de la soumission, le fichier de soumission sample_submission n'arrivait pas à s'ouvrir entièrement sur Excel, et donc la soumission 
+ne seffectuait pas, ça nous envoyait une erreur comme quoi les lignes n'étaient pas toutes là)
+Solution après quelques jours: il suffisait de zipper le fichier excel provenant du cloud, le dézipper et ensuite le soumettre sur Kaggle, on est contents 
+- début de rédaction en LateX
