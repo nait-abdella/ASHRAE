@@ -2,6 +2,7 @@
 - YECHCHI Sif-Eddine 
 - NAIT ABDELLA
 - EL ADAMI Hichem 
+- EL JAMIY Mohamed
 
 Pour nous contacter, rendez-vous sur [Discord](https://discord.gg/Tz7u4JWW) !
 
