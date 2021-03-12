@@ -7,7 +7,7 @@
 Pour nous contacter, rendez-vous sur [Discord](https://discord.gg/Tz7u4JWW) !
 
 
-## Subject: ASHRAE Energy Prediction
+## Subject: ASHRAE Energy Prediction 
 
 #### Données:
 
@@ -33,33 +33,12 @@ Then, we have **reduced the memory** of the data:
 
 There are the percentages of missing values for each variable: 
 
-floor_count	:82.65 %
-
-year_built : 59.99 %
-
-cloud_coverage	:	43.65 %
-
-precip_depth_1_hr	:	18.54 %
-
-wind_direction	:	7.16 %
-
-sea_level_pressure	:	6.09 %
-
-wind_speed	: 0.71 %
-
-dew_temperature	:	0.49 %
-
-Other variables .. : 0%
-
 
 Then, we have 
 - converted the variable **timestamp** to a date_time variable
 - replaced the four values of the variable **meter** by their real values: (0:"electricity",1:"chilledwater",2:"steam",3:"hotwater") 
 
 
-#### Some graphics: 
-
-We first of all interest to the target variable: **meter_reading** 
 
 
 
