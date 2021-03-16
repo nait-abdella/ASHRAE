@@ -1,0 +1,5 @@
+-On a fait le tunning de pmriére model (decision tree) qu'on entrainer, mais sans avoir une aélioration sur le score de reiere souission.
+-On voulait tester plusieures algorithes (random forest,Xgboost ,stacking..), mais les calcules sont lourd et ca prend de temps, en lus vous a vez demandé de concentrer sur un ou deux algos on a décedé de travailler sur LGBM.
+- En se basant sur cette disscussion https://www.kaggle.com/c/ashrae-energy-prediction/discussion/122471, on veut traiter les outliers afin de netoyer la base et augrnter le score.
+-Entrainer LGBM , cette fois avec le log de variable cible (reading_meter.
+-On afiat lusieures souimssions as le score ne s'ameliore pas .
