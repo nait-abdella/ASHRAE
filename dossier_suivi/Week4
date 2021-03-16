@@ -3,3 +3,5 @@
 - En se basant sur cette disscussion https://www.kaggle.com/c/ashrae-energy-prediction/discussion/122471, on veut traiter les outliers afin de netoyer la base et augrnter le score.
 -Entrainer LGBM , cette fois avec le log de variable cible (reading_meter.
 -On afiat lusieures souimssions mais le score ne s'ameliore pas .
+-Blockage pour un bonne moment sur le point de suprimoer les outliers , on arrive a les visiualiser.
+-Souission 2 avec LGBM.
