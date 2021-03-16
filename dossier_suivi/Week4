@@ -1,7 +1,19 @@
--On a fait le tunning du premier modèle(decision tree) qu'on a entrainé, mais sans avoir une amélioration sur le score de la première soumission.
--On voulait tester plusieurs algorithmes(random forest,Xgboost ,stacking..), mais les calculs sont lourds et cela prend du temps, nous avons décider de  concentrer sur un ou deux algos on a décedé de travailler sur LGBM.
--En se basant sur cette disscussion https://www.kaggle.com/c/ashrae-energy-prediction/discussion/122471, on veut traiter les outliers afin de netoyer la base et augrnter le score.
--Entrainer LGBM , cette fois avec le log de variable cible (reading_meter.
--On afiat lusieures souimssions mais le score ne s'ameliore pas .
--Blockage pour un bonne moment sur le point de suprimoer les outliers , on arrive a les visiualiser.
--Souission 2 avec LGBM.
+*** Amélioration du modèle ***
+------------------------------- 
+
+-On a fait le tunning de notre premier modèle (decision tree) qu'on a entrainé, mais sans avoir une amélioration sur le score de la première soumission.
+-On voulait tester plusieurs algorithmes(random forest,Xgboost ,stacking..), mais les calculs sont lourds et cela prend du temps,
+nous avons donc décider de nous concentrer sur un ou deux algos, on a choisit de travailler sur le modèle LGBM.
+
+-En nous basant sur cette disscussion https://www.kaggle.com/c/ashrae-energy-prediction/discussion/122471, on veut traiter les outliers afin de nettoyer la base
+et essayer d'avoir un score plus performant.
+
+-Entrainer LGBM , avec le log de variable cible (meter_reading).
+
+-On a fait plusieurs soumissions mais le score ne s'améliore pas. (environ 1.46)
+*** Problème rencontré ***:
+On arrive pas à visualiser outliers afin de les supprimer.
+
+- Deuxième soumission avec LGBM. (score de 1.4)
+
+- Rédaction du rapport.
