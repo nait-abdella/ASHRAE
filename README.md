@@ -31,12 +31,7 @@ Then, we have **reduced the memory** of the data:
 #### Missing values: 
 ![heatmap of missing values](Images/na_values.png)
 
-There are the percentages of missing values for each variable: 
 
-
-Then, we have 
-- converted the variable **timestamp** to a date_time variable
-- replaced the four values of the variable **meter** by their real values: (0:"electricity",1:"chilledwater",2:"steam",3:"hotwater") 
 
 
 
